@@ -1,0 +1,2 @@
+# whut.today
+leetcode daily
